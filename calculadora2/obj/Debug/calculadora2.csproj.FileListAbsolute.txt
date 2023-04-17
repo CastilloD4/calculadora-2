@@ -1,0 +1,8 @@
+D:\documentos y tareas\programacion\github\repositorio1\calculadora2\calculadora2\bin\Debug\calculadora2.exe.config
+D:\documentos y tareas\programacion\github\repositorio1\calculadora2\calculadora2\bin\Debug\calculadora2.exe
+D:\documentos y tareas\programacion\github\repositorio1\calculadora2\calculadora2\bin\Debug\calculadora2.pdb
+D:\documentos y tareas\programacion\github\repositorio1\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.AssemblyReference.cache
+D:\documentos y tareas\programacion\github\repositorio1\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.SuggestedBindingRedirects.cache
+D:\documentos y tareas\programacion\github\repositorio1\calculadora2\calculadora2\obj\Debug\calculadora2.csproj.CoreCompileInputs.cache
+D:\documentos y tareas\programacion\github\repositorio1\calculadora2\calculadora2\obj\Debug\calculadora2.exe
+D:\documentos y tareas\programacion\github\repositorio1\calculadora2\calculadora2\obj\Debug\calculadora2.pdb
